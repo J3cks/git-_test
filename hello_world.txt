@@ -2,3 +2,5 @@ hello world
 hi jecks!
 you will be a developer!!! 
 GO!!! :)
+
+"Just checking if comments on commit works"
